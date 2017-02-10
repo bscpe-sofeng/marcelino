@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\bin\Debug\Payroll System.exe.config
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\bin\Debug\Payroll System.exe
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\bin\Debug\Payroll System.pdb
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll_System.Form1.resources
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll_System.Main.resources
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll_System.Payslip.resources
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll_System.Properties.Resources.resources
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll_System.Time.resources
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll System.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll System.exe
+C:\Users\Asus\Desktop\Soft Eng\marcelino-41f9cd8db1a57e20eb17142abfea6cb473017dd5\Payroll System\obj\Debug\Payroll System.pdb
